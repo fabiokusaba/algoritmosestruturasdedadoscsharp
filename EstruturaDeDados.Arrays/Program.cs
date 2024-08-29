@@ -14,14 +14,39 @@
 // Se eu quisesse imprimir cada item de um array o jeito mais comum é eu fazer um foreach, passar no array, pegar cada
 // item dele e imprimir
 
-// 
+// A gente precisa entender o seguinte conceito: um array é um espaço limitado e imutável na memória, o que eu quero
+// dizer é que quando separou-se para nós 6 espaços na memória, esses espaços foram separados e os espaços antes como
+// os espaços depois podem estar sendo utilizados daí que se você perceber que o tamanho do seu array não foi suficiente
+// o compilador/computador ele não pode simplesmente reservar um pedaço logo após ou um pedaço logo antes pra utilizar
+// porque ele não tem acesso, por questões de segurança o seu programa não pode ter acesso a outras partes da memória
+// dessa forma cada array criado tem somente aquele espaço pra ele mesmo que você não utilize, então toda vez que você
+// precisar alterar o tamanho do seu array você vai precisar criar um novo
+// Utilizando o método Copy do Array, então temos uma classe para arrays aqui no C# como temos em outras linguagens, no
+// C# o que a gente faz? A gente pede para o Array, que seria uma instância superior, uma classe mãe de todos os arrays
+// pra ela fazer uma cópia entre os arrays e aí eu passo o primeiro e o segundo e digo o tamanho porque eu não preciso
+// copiar tudo eu poderia copiar somente uma parte, nesse caso estamos copiando o array numeros que tem 5 itens e estou
+// copiando tudo só que como eu não tinha o tamanho suficiente para completá-lo, não tem problema ele fica com o valor
+// padrão
+// Quando nós criamos um array dessa forma aqui dizendo só o tamanho dele o compilador vai criar pra gente um array com
+// o valor padrão do tipo que a gente está informando, se eu falei que eu quero um array de inteiros o valor padrão de
+// um inteiro é 0, então ele vai preencher todos com 0, se fosse um objeto seria nulo, se fosse uma string seria nulo
+// Essa operação de você criar e copiar é oneroso, cai o desempenho do sistema
+// A parte positiva do array e a sua principal força é que ele é muito rápido como você trabalha numa questão de index
+// de índice você sempre sabe onde buscar e como o espaço na memória ele é contínuo ele sempre vai saber, o compilador
+// sempre vai saber achar muito rápido essa informação 
 
 int[] numeros = { 0, 1, 2, 3, 4, 5 };
 numeros[0] = 10;
 
-Console.WriteLine($"Item 3: {numeros[3]}");
+Console.WriteLine($"Item 3: {numeros[3]}"); // 3
 
-foreach (var item in numeros)
+numeros = new int[] { 1, 2, 3, 4, 5 };
+Console.WriteLine($"Item 3: {numeros[3]}"); // 4
+
+int[] numeros2 = new int[10];
+Array.Copy(numeros, numeros2, 5);
+
+foreach (var item in numeros2)
 {
     Console.WriteLine(item);
 }
