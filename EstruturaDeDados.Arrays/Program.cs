@@ -35,18 +35,70 @@
 // de índice você sempre sabe onde buscar e como o espaço na memória ele é contínuo ele sempre vai saber, o compilador
 // sempre vai saber achar muito rápido essa informação 
 
-int[] numeros = { 0, 1, 2, 3, 4, 5 };
-numeros[0] = 10;
+// Sempre que precisarmos pegar o tamanho do array podemos utilizar o Length
+// Na última aula vimos como aumentar o tamanho de um array a gente cria um novo array copia as coisas pra lá, mas a 
+// gente tem uma forma automatizada de fazer isso o Array, aquela classe que seria a mãe de todos os arrays, ela tem
+// uma função chamada Resize, alterar o tamanho, no qual ela recebe o seu array e a gente tem que colocar ref que aqui
+// no C# é pra gente poder realmente alterar aquela coisa que a gente passou porque de outra forma o array aqui é um
+// tipo de referência se eu mando ele dessa forma lá dentro depois que ele fizesse tudo o que ele tem que fazer ele
+// descartaria, o ref faz eu alterar a minha variável inicial que é o números, então eu vou estar realmente mexendo aqui
+// no números, e o que eu faço? Passo o que eu quero alterar, ou seja, o array que eu quero alterar, no caso eu quero
+// aumentar de tamanho ou diminuir e o novo tamanho. Mas, aqui continua com os mesmos problemas de performance que
+// comentamos na aula passada, não é para ser usado indiscriminadamente com arrays muito grandes
+// O IndexOf é uma forma de você buscar dentro do array por um determinado valor, isso daqui também não é pra ser 
+// utilizado a torto e a direito, não é a função do array, a gente não utiliza o array pra gente colocar coisas que a
+// gente vai ficar procurando depois, mas o que ele faz aqui? Ele busca, é também da classe mãe Array, nesse método a 
+// gente passa o array no qual a gente vai fazer a busca e o valor que a gente vai buscar
+// Nós temos o Sort que vai arrumar o array, vai ordenar o nosso array, lógico que nesse caso o tipo do array importa
+// porque precisa ser um array de um tipo que o compilador saiba ordenar IComparable, ele precisa saber como uma coisa
+// é maior que a outra e com números isso é meio óbvio basta olhar o número
+// E por último a parte do Reverse em que ele vai inverter a ordem do seu array, o que eu quero chamar atenção aqui é
+// que o Reverse não é que ele ordena ao contrário, ele pega o seu array do jeito que está e inverte, ele inverte o que?
+// Ele inverte a última posição com a primeira, a penúltima com a segunda e assim por diante
+// E por último e não menos importante o ForEach que pega cada item do array e para cada iteração ele vai fazer alguma
+// coisa, no nosso caso a gente passa o nosso array e passo uma função para qual cada item vai ser enviado, aqui nós
+// poderíamos simplificar com a utilização de lambdas porque o que o ForEach vai estar pedindo? Ele vai estar pedindo um
+// array e algo pra fazer, que no nosso caso foi o método imprime
 
-Console.WriteLine($"Item 3: {numeros[3]}"); // 3
+using EstruturaDeDados.Arrays;
 
-numeros = new int[] { 1, 2, 3, 4, 5 };
-Console.WriteLine($"Item 3: {numeros[3]}"); // 4
+int[] numeros = { 8, 4, 3, 0, 1, 9, 7, 6 };
+numeros.Imprime("Array inicial");
 
-int[] numeros2 = new int[10];
-Array.Copy(numeros, numeros2, 5);
+Console.WriteLine($"Tamanho: {numeros.Length}");
 
-foreach (var item in numeros2)
-{
-    Console.WriteLine(item);
-}
+Array.Resize(ref numeros, 20);
+Console.WriteLine($"Novo tamanho: {numeros.Length}");
+
+Console.WriteLine($"IndexOf: {Array.IndexOf(numeros, 0)}");
+
+Array.Sort(numeros);
+numeros.Imprime("Array ordenado");
+
+Array.Reverse(numeros);
+numeros.Imprime("Array invertido");
+
+Console.WriteLine("ForEach");
+// Array.ForEach(numeros, imprime);
+Array.ForEach(numeros, (x) => Console.WriteLine(x));
+
+// void imprime(int x)
+// {
+//     Console.WriteLine(x);
+// }
+
+// int[] numeros = { 0, 1, 2, 3, 4, 5 };
+// numeros[0] = 10;
+//
+// Console.WriteLine($"Item 3: {numeros[3]}"); // 3
+//
+// numeros = new int[] { 1, 2, 3, 4, 5 };
+// Console.WriteLine($"Item 3: {numeros[3]}"); // 4
+//
+// int[] numeros2 = new int[10];
+// Array.Copy(numeros, numeros2, 5);
+//
+// foreach (var item in numeros2)
+// {
+//     Console.WriteLine(item);
+// }
