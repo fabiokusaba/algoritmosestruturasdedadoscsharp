@@ -1,0 +1,15 @@
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/bin/Debug/net8.0/EstruturaDeDados.Listas
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/bin/Debug/net8.0/EstruturaDeDados.Listas.deps.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/bin/Debug/net8.0/EstruturaDeDados.Listas.runtimeconfig.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/bin/Debug/net8.0/EstruturaDeDados.Listas.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/bin/Debug/net8.0/EstruturaDeDados.Listas.pdb
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/obj/Debug/net8.0/EstruturaDeDados.Listas.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/obj/Debug/net8.0/EstruturaDeDados.Listas.AssemblyInfoInputs.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/obj/Debug/net8.0/EstruturaDeDados.Listas.AssemblyInfo.cs
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/obj/Debug/net8.0/EstruturaDeDados.Listas.csproj.CoreCompileInputs.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/obj/Debug/net8.0/EstruturaDeDados.Listas.sourcelink.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/obj/Debug/net8.0/EstruturaDeDados.Listas.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/obj/Debug/net8.0/refint/EstruturaDeDados.Listas.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/obj/Debug/net8.0/EstruturaDeDados.Listas.pdb
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/obj/Debug/net8.0/EstruturaDeDados.Listas.genruntimeconfig.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Listas/obj/Debug/net8.0/ref/EstruturaDeDados.Listas.dll
