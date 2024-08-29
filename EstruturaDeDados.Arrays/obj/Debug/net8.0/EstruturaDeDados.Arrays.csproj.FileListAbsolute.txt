@@ -1,0 +1,14 @@
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/bin/Debug/net8.0/EstruturaDeDados.Arrays
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/bin/Debug/net8.0/EstruturaDeDados.Arrays.deps.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/bin/Debug/net8.0/EstruturaDeDados.Arrays.runtimeconfig.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/bin/Debug/net8.0/EstruturaDeDados.Arrays.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/bin/Debug/net8.0/EstruturaDeDados.Arrays.pdb
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/obj/Debug/net8.0/EstruturaDeDados.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/obj/Debug/net8.0/EstruturaDeDados.Arrays.AssemblyInfoInputs.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/obj/Debug/net8.0/EstruturaDeDados.Arrays.AssemblyInfo.cs
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/obj/Debug/net8.0/EstruturaDeDados.Arrays.csproj.CoreCompileInputs.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/obj/Debug/net8.0/EstruturaDeDados.Arrays.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/obj/Debug/net8.0/refint/EstruturaDeDados.Arrays.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/obj/Debug/net8.0/EstruturaDeDados.Arrays.pdb
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/obj/Debug/net8.0/EstruturaDeDados.Arrays.genruntimeconfig.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/EstruturaDeDados.Arrays/obj/Debug/net8.0/ref/EstruturaDeDados.Arrays.dll
