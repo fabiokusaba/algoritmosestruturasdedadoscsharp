@@ -31,3 +31,58 @@
 // lista ligada é quando você precisa ler, se você precisa ler, se você precisar acessar uma posição ele não trabalha com índice e
 // como ele trabalha? Ele trabalha analisando item por item, a sua pesquisa é O(n), é uma pesquisa onerosa, então se você precisa de
 // busca, de leitura a lista ligada já não é tão legal, melhor seria uma lista, um array
+
+// AddLast -> adiciona na última posição
+// AddFirst -> adiciona na primeira posição
+// Cada vez que você utiliza o AddFirst ou AddLast ele te dá uma referência para quem foi criado
+// Algumas "complicações": digamos que eu queira achar dentro dessa lista um aluno, por exemplo com determinada matrícula, se eu rodar
+// o código vocês podem ver que está nulo, não é tão simples assim quando estamos utilizando classes que nós criamos, os nossos tipos
+// porque uma classe é um tipo que a gente inventa, a gente tem que informar para o C# como ele faz essa busca, como ele interpreta o
+// valor, pensa no compilador o compilador não sabe o que é um aluno ele não sabe se eu devo achar por matrícula, por nome, por uma
+// ligação de nome e matrícula, a forma que ele usa aqui é utilizando o equals que seria o sinal de igual
+// AddBefore -> adiciona antes de uma referência dada
+// AddAfter -> da mesma forma que o AddBefore, no entanto, vou estar colocando depois da referência
+// Remove -> quando utilizamos esse método numa lista ligada o que ele faz é o seguinte: ele apaga qualquer referência ao elemento que
+// estamos querendo remover e refaz a referência, quando o garbage collector passar esse elemento eventualmente vai ser apagado da 
+// memória
+// RemoveFirst -> remove o primeiro elemento
+// RemoveLast -> remove o último elemento
+// Nesses casos RemoveFirst e RemoveLast eu não preciso passar a referência porque ele já vai saber o que é o último e o primeiro e ele
+// vai tirar quem estiver lá
+// Reverse -> e por último nós podemos reverter a lista, vai fazer quem é o primeiro virar o último, ele vai virar ao contrário, ele vai
+// fazer a ordem ao contrário. E como vocês podem ver eu criei uma outra lista e joguei essa lista invertida lá porque ele não pega aquela
+// lista e inverte ela, ele pega cada item da lista vai revertendo e jogando num outro lugar
+
+var lista = new LinkedList<Aluno>();
+lista.AddFirst(new Aluno{Matricula = 1, Nome = "Milton"});
+lista.AddFirst(new Aluno{Matricula = 2, Nome = "Carlos"});
+lista.AddFirst(new Aluno{Matricula = 3, Nome = "Julia"});
+
+var procuraAluno = lista.Find(new Aluno{Matricula = 2});
+var listaReversa = lista.Reverse();
+// lista.RemoveLast();
+// lista.Remove(procuraAluno);
+// lista.AddBefore(procuraAluno, new Aluno{Matricula = 4, Nome = "Joao"});
+
+foreach (var aluno in lista)
+{
+    Console.WriteLine($"{aluno.Nome}");
+}
+
+class Aluno
+{
+    public int Matricula { get; set; }
+    public string Nome { get; set; }
+
+    // Quando alguém puxar uma instância de Aluno e perguntar se ele é igual, tentar fazer essa avaliação se ele é igual a algo, ele
+    // vai ter que me passar um objeto porque eu preciso falar "isso é igual aquilo?", aí ele vai verificar se esse objeto passado é
+    // do tipo Aluno porque se não for já não é aluno, se for podemos passar para a próxima fase se não a gente já quebra aqui e 
+    // devolve como false, e aí eu faço a minha avaliação então eu decidi que a forma de você verificar se é igual ou não é olhando a
+    // matrícula, vou olhar se a Matrícula dessa minha instância que estou usando para comparar é igual ao que você está me passando
+    // nesse objeto
+    public override bool Equals(object obj)
+    {
+        // Verifica se o objeto é de tipo Aluno e se as matrículas são iguais
+        return obj is Aluno aluno && Matricula == aluno.Matricula;
+    }
+}
