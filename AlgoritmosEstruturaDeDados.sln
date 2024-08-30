@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.Arrays", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.Listas", "EstruturaDeDados.Listas\EstruturaDeDados.Listas.csproj", "{B7AA2356-8646-4D72-8A2C-61372C01EFF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.Strings", "EstruturaDeDados.Strings\EstruturaDeDados.Strings.csproj", "{512397CF-1B7D-4AEB-BB8D-2A2BAF31F65F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{B7AA2356-8646-4D72-8A2C-61372C01EFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7AA2356-8646-4D72-8A2C-61372C01EFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7AA2356-8646-4D72-8A2C-61372C01EFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512397CF-1B7D-4AEB-BB8D-2A2BAF31F65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512397CF-1B7D-4AEB-BB8D-2A2BAF31F65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512397CF-1B7D-4AEB-BB8D-2A2BAF31F65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512397CF-1B7D-4AEB-BB8D-2A2BAF31F65F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
