@@ -5,3 +5,18 @@
 // exemplo que podemos pensar aqui é o CTRL+Z, o que ele faz? Ele vai desfazendo as últimas coisas que eu fiz, o histórico de 
 // navegação funciona da mesma forma, quando você vai voltar você volta do último para o primeiro, então sempre que você tiver um
 // problema em que você precisa ir na sequência e voltar na ordem do último para o primeiro a pilha vai ser a sua estrutura de dados
+
+Stack<int> stack = new Stack<int>();
+stack.Push(10);
+stack.Push(20);
+stack.Push(30);
+
+int numberOfElements = stack.Count;
+
+int removedElement = stack.Pop();
+
+int lastElement = stack.Peek();
+
+bool containsElement = stack.Contains(20);
+
+stack.Clear();
