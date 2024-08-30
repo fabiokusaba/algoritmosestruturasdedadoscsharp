@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstruturaDeDados.Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fec4539ee3c9b5c09aeedd491bf1f849bdea2aea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+098ba856c7ec48b4228930e4ac94231f1f579d0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstruturaDeDados.Arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstruturaDeDados.Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

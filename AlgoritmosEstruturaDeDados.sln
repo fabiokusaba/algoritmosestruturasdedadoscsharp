@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.Listas", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.Strings", "EstruturaDeDados.Strings\EstruturaDeDados.Strings.csproj", "{512397CF-1B7D-4AEB-BB8D-2A2BAF31F65F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.ListasLigadas", "EstruturaDeDados.ListasLigadas\EstruturaDeDados.ListasLigadas.csproj", "{9220F3FF-4A2A-4BB3-A397-19D80A478F03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{512397CF-1B7D-4AEB-BB8D-2A2BAF31F65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{512397CF-1B7D-4AEB-BB8D-2A2BAF31F65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{512397CF-1B7D-4AEB-BB8D-2A2BAF31F65F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9220F3FF-4A2A-4BB3-A397-19D80A478F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9220F3FF-4A2A-4BB3-A397-19D80A478F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9220F3FF-4A2A-4BB3-A397-19D80A478F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9220F3FF-4A2A-4BB3-A397-19D80A478F03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
