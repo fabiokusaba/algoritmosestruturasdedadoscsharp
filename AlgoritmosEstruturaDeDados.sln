@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.Filas", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.Pilhas", "EstruturaDeDados.Pilhas\EstruturaDeDados.Pilhas.csproj", "{AE3D2BF0-0413-43A4-B487-AD3FAFDA758D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.Arvores", "EstruturaDeDados.Arvores\EstruturaDeDados.Arvores.csproj", "{2F6F9C2D-FCE8-4B88-8F1C-4FC714E1940B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,5 +45,9 @@ Global
 		{AE3D2BF0-0413-43A4-B487-AD3FAFDA758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE3D2BF0-0413-43A4-B487-AD3FAFDA758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE3D2BF0-0413-43A4-B487-AD3FAFDA758D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6F9C2D-FCE8-4B88-8F1C-4FC714E1940B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6F9C2D-FCE8-4B88-8F1C-4FC714E1940B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6F9C2D-FCE8-4B88-8F1C-4FC714E1940B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6F9C2D-FCE8-4B88-8F1C-4FC714E1940B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
