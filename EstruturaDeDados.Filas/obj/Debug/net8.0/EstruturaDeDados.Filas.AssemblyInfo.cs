@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstruturaDeDados.Filas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4829d6810cdc2cf9f95da20ed20f6536df5907cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb69c41aef3c9ce6e193b4b1d40fa70fb381584d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstruturaDeDados.Filas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstruturaDeDados.Filas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
