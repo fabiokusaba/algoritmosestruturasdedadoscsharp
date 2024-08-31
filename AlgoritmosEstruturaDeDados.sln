@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.Dicionario
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados.Hashset", "EstruturaDeDados.Hashset\EstruturaDeDados.Hashset.csproj", "{391049DF-B9D2-4860-A1D1-AC2EC87CB9FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.SelectionSort", "Algoritmos.SelectionSort\Algoritmos.SelectionSort.csproj", "{88F252E6-FD9C-42A9-8B91-00A5ED13E63B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,5 +63,9 @@ Global
 		{391049DF-B9D2-4860-A1D1-AC2EC87CB9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{391049DF-B9D2-4860-A1D1-AC2EC87CB9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{391049DF-B9D2-4860-A1D1-AC2EC87CB9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F252E6-FD9C-42A9-8B91-00A5ED13E63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F252E6-FD9C-42A9-8B91-00A5ED13E63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F252E6-FD9C-42A9-8B91-00A5ED13E63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F252E6-FD9C-42A9-8B91-00A5ED13E63B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
