@@ -1,0 +1,15 @@
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/bin/Debug/net8.0/Algoritmos.CombinacaoDeListas
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/bin/Debug/net8.0/Algoritmos.CombinacaoDeListas.deps.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/bin/Debug/net8.0/Algoritmos.CombinacaoDeListas.runtimeconfig.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/bin/Debug/net8.0/Algoritmos.CombinacaoDeListas.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/bin/Debug/net8.0/Algoritmos.CombinacaoDeListas.pdb
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/obj/Debug/net8.0/Algoritmos.CombinacaoDeListas.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/obj/Debug/net8.0/Algoritmos.CombinacaoDeListas.AssemblyInfoInputs.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/obj/Debug/net8.0/Algoritmos.CombinacaoDeListas.AssemblyInfo.cs
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/obj/Debug/net8.0/Algoritmos.CombinacaoDeListas.csproj.CoreCompileInputs.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/obj/Debug/net8.0/Algoritmos.CombinacaoDeListas.sourcelink.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/obj/Debug/net8.0/Algoritmos.CombinacaoDeListas.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/obj/Debug/net8.0/refint/Algoritmos.CombinacaoDeListas.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/obj/Debug/net8.0/Algoritmos.CombinacaoDeListas.pdb
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/obj/Debug/net8.0/Algoritmos.CombinacaoDeListas.genruntimeconfig.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.CombinacaoDeListas/obj/Debug/net8.0/ref/Algoritmos.CombinacaoDeListas.dll
