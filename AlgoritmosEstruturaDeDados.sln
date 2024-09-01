@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.SelectionSort", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.CombinacaoDeListas", "Algoritmos.CombinacaoDeListas\Algoritmos.CombinacaoDeListas.csproj", "{5B6BE0F3-0C71-4F63-8AF0-0D3A58008F5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.Palindromos", "Algoritmos.Palindromos\Algoritmos.Palindromos.csproj", "{21917029-549D-46C6-9F25-FF995CF6081E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,5 +75,9 @@ Global
 		{5B6BE0F3-0C71-4F63-8AF0-0D3A58008F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6BE0F3-0C71-4F63-8AF0-0D3A58008F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6BE0F3-0C71-4F63-8AF0-0D3A58008F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21917029-549D-46C6-9F25-FF995CF6081E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21917029-549D-46C6-9F25-FF995CF6081E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21917029-549D-46C6-9F25-FF995CF6081E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21917029-549D-46C6-9F25-FF995CF6081E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
