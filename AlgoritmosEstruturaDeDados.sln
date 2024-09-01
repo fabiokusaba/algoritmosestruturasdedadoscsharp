@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.ContagemDePalavr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.Anagrama", "Algoritmos.Anagrama\Algoritmos.Anagrama.csproj", "{FAA2774C-CFAC-4169-A755-C9CFD837B445}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.OrdenacaoPorInsercao", "Algoritmos.OrdenacaoPorInsercao\Algoritmos.OrdenacaoPorInsercao.csproj", "{95B5710E-F2E3-4A62-B29F-308ADC18BEF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,5 +117,9 @@ Global
 		{FAA2774C-CFAC-4169-A755-C9CFD837B445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAA2774C-CFAC-4169-A755-C9CFD837B445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAA2774C-CFAC-4169-A755-C9CFD837B445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B5710E-F2E3-4A62-B29F-308ADC18BEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B5710E-F2E3-4A62-B29F-308ADC18BEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B5710E-F2E3-4A62-B29F-308ADC18BEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B5710E-F2E3-4A62-B29F-308ADC18BEF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

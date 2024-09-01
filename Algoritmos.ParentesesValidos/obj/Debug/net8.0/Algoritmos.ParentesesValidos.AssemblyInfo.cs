@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritmos.ParentesesValidos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e989d76e2eb56be53b9f53375ece7d9891dbeb43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6d0bcff79bfa5556289592972e9d2d74afe50f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritmos.ParentesesValidos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritmos.ParentesesValidos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

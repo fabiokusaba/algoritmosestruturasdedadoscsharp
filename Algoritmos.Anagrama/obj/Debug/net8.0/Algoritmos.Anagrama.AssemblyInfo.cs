@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritmos.Anagrama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+558280692140d487282998518c759c670be7387f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6d0bcff79bfa5556289592972e9d2d74afe50f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritmos.Anagrama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritmos.Anagrama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritmos.ArvoresInversao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4618c1c8c414837f41bf2ca1bac040bea500ed3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6d0bcff79bfa5556289592972e9d2d74afe50f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritmos.ArvoresInversao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritmos.ArvoresInversao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
