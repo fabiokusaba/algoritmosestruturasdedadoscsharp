@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.Anagrama", "Algo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.OrdenacaoPorInsercao", "Algoritmos.OrdenacaoPorInsercao\Algoritmos.OrdenacaoPorInsercao.csproj", "{95B5710E-F2E3-4A62-B29F-308ADC18BEF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.Recursao", "Algoritmos.Recursao\Algoritmos.Recursao.csproj", "{6E9C10E0-CDED-480D-A2DE-40AAC953A598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,5 +123,9 @@ Global
 		{95B5710E-F2E3-4A62-B29F-308ADC18BEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95B5710E-F2E3-4A62-B29F-308ADC18BEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95B5710E-F2E3-4A62-B29F-308ADC18BEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9C10E0-CDED-480D-A2DE-40AAC953A598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9C10E0-CDED-480D-A2DE-40AAC953A598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9C10E0-CDED-480D-A2DE-40AAC953A598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9C10E0-CDED-480D-A2DE-40AAC953A598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
