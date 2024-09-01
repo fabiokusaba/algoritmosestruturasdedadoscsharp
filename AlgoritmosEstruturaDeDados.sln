@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.RoundRobin", "Al
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.ParentesesValidos", "Algoritmos.ParentesesValidos\Algoritmos.ParentesesValidos.csproj", "{58779687-8DDB-47CA-88DD-3E36E3264305}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.ArvoresInversao", "Algoritmos.ArvoresInversao\Algoritmos.ArvoresInversao.csproj", "{3E689582-0F1F-4936-ACFA-46C284740613}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,5 +99,9 @@ Global
 		{58779687-8DDB-47CA-88DD-3E36E3264305}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58779687-8DDB-47CA-88DD-3E36E3264305}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58779687-8DDB-47CA-88DD-3E36E3264305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E689582-0F1F-4936-ACFA-46C284740613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E689582-0F1F-4936-ACFA-46C284740613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E689582-0F1F-4936-ACFA-46C284740613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E689582-0F1F-4936-ACFA-46C284740613}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
