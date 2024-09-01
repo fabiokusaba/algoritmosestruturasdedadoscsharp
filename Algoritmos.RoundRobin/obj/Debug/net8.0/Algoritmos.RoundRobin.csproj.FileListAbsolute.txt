@@ -1,0 +1,15 @@
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/bin/Debug/net8.0/Algoritmos.RoundRobin
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/bin/Debug/net8.0/Algoritmos.RoundRobin.deps.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/bin/Debug/net8.0/Algoritmos.RoundRobin.runtimeconfig.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/bin/Debug/net8.0/Algoritmos.RoundRobin.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/bin/Debug/net8.0/Algoritmos.RoundRobin.pdb
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/obj/Debug/net8.0/Algoritmos.RoundRobin.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/obj/Debug/net8.0/Algoritmos.RoundRobin.AssemblyInfoInputs.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/obj/Debug/net8.0/Algoritmos.RoundRobin.AssemblyInfo.cs
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/obj/Debug/net8.0/Algoritmos.RoundRobin.csproj.CoreCompileInputs.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/obj/Debug/net8.0/Algoritmos.RoundRobin.sourcelink.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/obj/Debug/net8.0/Algoritmos.RoundRobin.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/obj/Debug/net8.0/refint/Algoritmos.RoundRobin.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/obj/Debug/net8.0/Algoritmos.RoundRobin.pdb
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/obj/Debug/net8.0/Algoritmos.RoundRobin.genruntimeconfig.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.RoundRobin/obj/Debug/net8.0/ref/Algoritmos.RoundRobin.dll
