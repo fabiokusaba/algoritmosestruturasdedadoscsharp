@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.ParentesesValido
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.ArvoresInversao", "Algoritmos.ArvoresInversao\Algoritmos.ArvoresInversao.csproj", "{3E689582-0F1F-4936-ACFA-46C284740613}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.ContagemDePalavras", "Algoritmos.ContagemDePalavras\Algoritmos.ContagemDePalavras.csproj", "{D44DBD62-F575-4E75-AC4D-86C45A6FFD2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,5 +105,9 @@ Global
 		{3E689582-0F1F-4936-ACFA-46C284740613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E689582-0F1F-4936-ACFA-46C284740613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E689582-0F1F-4936-ACFA-46C284740613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44DBD62-F575-4E75-AC4D-86C45A6FFD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44DBD62-F575-4E75-AC4D-86C45A6FFD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44DBD62-F575-4E75-AC4D-86C45A6FFD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44DBD62-F575-4E75-AC4D-86C45A6FFD2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
