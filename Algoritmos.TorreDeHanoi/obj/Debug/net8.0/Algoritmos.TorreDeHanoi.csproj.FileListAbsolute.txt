@@ -1,0 +1,15 @@
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/bin/Debug/net8.0/Algoritmos.TorreDeHanoi
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/bin/Debug/net8.0/Algoritmos.TorreDeHanoi.deps.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/bin/Debug/net8.0/Algoritmos.TorreDeHanoi.runtimeconfig.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/bin/Debug/net8.0/Algoritmos.TorreDeHanoi.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/bin/Debug/net8.0/Algoritmos.TorreDeHanoi.pdb
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/obj/Debug/net8.0/Algoritmos.TorreDeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/obj/Debug/net8.0/Algoritmos.TorreDeHanoi.AssemblyInfoInputs.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/obj/Debug/net8.0/Algoritmos.TorreDeHanoi.AssemblyInfo.cs
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/obj/Debug/net8.0/Algoritmos.TorreDeHanoi.csproj.CoreCompileInputs.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/obj/Debug/net8.0/Algoritmos.TorreDeHanoi.sourcelink.json
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/obj/Debug/net8.0/Algoritmos.TorreDeHanoi.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/obj/Debug/net8.0/refint/Algoritmos.TorreDeHanoi.dll
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/obj/Debug/net8.0/Algoritmos.TorreDeHanoi.pdb
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/obj/Debug/net8.0/Algoritmos.TorreDeHanoi.genruntimeconfig.cache
+/home/fabiokusaba/RiderProjects/AlgoritmosEstruturaDeDados/Algoritmos.TorreDeHanoi/obj/Debug/net8.0/ref/Algoritmos.TorreDeHanoi.dll

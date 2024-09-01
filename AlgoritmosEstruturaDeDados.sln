@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.OrdenacaoPorInse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.Recursao", "Algoritmos.Recursao\Algoritmos.Recursao.csproj", "{6E9C10E0-CDED-480D-A2DE-40AAC953A598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos.TorreDeHanoi", "Algoritmos.TorreDeHanoi\Algoritmos.TorreDeHanoi.csproj", "{31C77AAB-5054-44F6-B24C-27E587D9ED97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,5 +129,9 @@ Global
 		{6E9C10E0-CDED-480D-A2DE-40AAC953A598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E9C10E0-CDED-480D-A2DE-40AAC953A598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E9C10E0-CDED-480D-A2DE-40AAC953A598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C77AAB-5054-44F6-B24C-27E587D9ED97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C77AAB-5054-44F6-B24C-27E587D9ED97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C77AAB-5054-44F6-B24C-27E587D9ED97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C77AAB-5054-44F6-B24C-27E587D9ED97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
