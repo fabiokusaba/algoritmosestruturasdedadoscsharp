@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritmos.CombinacaoDeListas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f60aee2de3ebe73d898a7bf9c1948c90837ea147")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b50d171369a9385ac00104c1ee737b40a8053b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritmos.CombinacaoDeListas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritmos.CombinacaoDeListas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

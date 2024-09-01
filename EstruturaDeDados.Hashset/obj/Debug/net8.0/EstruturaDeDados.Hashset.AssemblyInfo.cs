@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstruturaDeDados.Hashset")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+875b97ca45323f5c399be323b79e51210add2cfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b50d171369a9385ac00104c1ee737b40a8053b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstruturaDeDados.Hashset")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstruturaDeDados.Hashset")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

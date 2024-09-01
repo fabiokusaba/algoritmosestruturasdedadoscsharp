@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritmos.SelectionSort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aab45bb44eff9cc65e7b9471ee502a7c9a665186")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b50d171369a9385ac00104c1ee737b40a8053b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritmos.SelectionSort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritmos.SelectionSort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

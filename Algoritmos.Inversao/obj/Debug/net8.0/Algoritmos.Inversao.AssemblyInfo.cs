@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritmos.Inversao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a1985886b8f367abe590f3a2a2492b26b1373cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b50d171369a9385ac00104c1ee737b40a8053b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritmos.Inversao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritmos.Inversao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
